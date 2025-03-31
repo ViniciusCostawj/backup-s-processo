@@ -2,6 +2,7 @@
 Realizando os backup's em python de forma pratica e rapida com otimização na memoria gerando arquivos de kb em vez de mb ou gb
 
 # Consulta de Operações no PostgreSQL e Exportação para JSON
+Isso é um modelo de backup para mensagens bancarias tipo de uma psti com select focado nos campos de uma mensageria do bacen
 
 ## Descrição
 Este script Python conecta-se a um banco de dados PostgreSQL, executa uma consulta SQL para obter operações dentro de um intervalo de tempo específico, e exporta os resultados para um arquivo JSON.
